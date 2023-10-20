@@ -1,0 +1,15 @@
+@charset "UTF-8";
+.delete-btn {
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+.delete-icon {
+  width: 15px;
+  height: 15px;
+}
+
+#tabList {
+  list-style: none;
+  padding: 0;
+}
